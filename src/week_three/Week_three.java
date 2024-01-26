@@ -7,6 +7,7 @@ package week_three;
 /**
  *
  * @author Mehakdeep Kaur
+ @Modifiedby Mehak on 26th Jan,2024
  */
 public class Week_three {
 
@@ -16,6 +17,7 @@ public class Week_three {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello World");
+        System.out.println("Yes the change is successful");
     }
     
 }
